@@ -25,7 +25,7 @@ gsap.to("#nav",{
   backgroundColor:"rgb(1, 1, 97)",
   duration:0.5,
   zIndex:100,
-  height:"130px",
+  height:"115px",
   scrollTrigger:{
 trigger:"#nav",
 scroller:"body",
